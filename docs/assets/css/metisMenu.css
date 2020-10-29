@@ -6,6 +6,14 @@
 * Made by Osman Nuri Okumus <onokumus@gmail.com> (https://github.com/onokumus)
 * Under MIT License
 */
+
+.title{ text-align: center;
+        text-shadow: grey;
+        text-size-adjust: auto;
+        border-radius: 25%;
+
+
+}
 .metismenu .arrow {
     float: right;
     line-height: 1.42857;
